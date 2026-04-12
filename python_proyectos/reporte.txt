@@ -1,0 +1,8 @@
+=== REPORTE DE ANÁLISIS ===
+Fecha: 04/04/2026
+El resultado del analisis es:
+El total fue:52426.
+ El numero mayor fue:51651.
+ El numero menor fue:1.
+ Hubo 1 números pares y 4 números impares.
+ El promedio fue:10485.20,hubo 0 números negativos y 5 números positivos.El rango es de:51650

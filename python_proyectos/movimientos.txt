@@ -1,0 +1,4 @@
+=== REPORTE DE ANÁLISIS ===
+Fecha: 05/04/2026
+El historial más reciente es:
+.Hubo 0 errores de ingreso y 0 errores de retiro.EL total de dinero retirado fue:0.El total de de dinero ingresado a tu cuenta fue de: 200.Se mostro el saldo 1.
