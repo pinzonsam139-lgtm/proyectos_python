@@ -1,0 +1,1 @@
+De la siguiente lista:[40, 75, 30, 90, 10, 50]Hubo 4 datos los cuales arrojaron aire limpio y 2 dieron resultados de contaminacionDe la siguiente lista:[40, 75, 30, 90, 10, 50]Hubo 4 datos los cuales arrojaron aire limpio y 2 dieron resultados de contaminacion
