@@ -14,3 +14,10 @@ def conversion(total):
 analisis=conversion(total)
 print(analisis)
 
+with open(nombre_excel, "w") as excel:
+    # 1. Añadimos "Rango" al título
+    excel.write("Suma;Mayor;Menor;Promedio;Pares;Impares;Positivos;Negativos;Rango\n")
+    
+    # 2. Añadimos {rango} al final de la fila
+    fila = f"{suma};{mayor};{menor};{prom:.2f};{par};{impar};{positivo};{menoria};{rango}\n"
+    excel.write(fila)

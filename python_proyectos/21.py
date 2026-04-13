@@ -51,6 +51,7 @@ while True:
         break
     else:
         print("opcion no valida, vuelve a intentar.")
+
 with open("movimientos.txt", "w") as movimientos:
     movimientos.write("=== REPORTE DE ANÁLISIS ===\n")
     movimientos.write(f"Fecha: 05/04/2026\n")
